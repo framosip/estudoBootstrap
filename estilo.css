@@ -13,3 +13,13 @@
     display: inline-block;
     vertical-align: top;
 }
+
+footer{
+    background-color: #333;
+    color: #FFF;
+    margin-top: 5px;
+}
+
+footer address:last-child{
+    margin-bottom: 0;
+}
