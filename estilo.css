@@ -6,3 +6,10 @@
     color: #FFF;
     font-size: 24px;
 }
+
+.grupo-tipo-pessoa,
+.grupo-tipo-solicitacao{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
